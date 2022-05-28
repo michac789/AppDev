@@ -1,0 +1,8 @@
+CS50 App Lecture 1: Javascript, ES6
+
+- Transpilers (Babel, Typescript, CoffeeScript, etc.)
+- Closures (function that refer to variable declared by parents)
+- Immediately Invoked Function Expression (IIFE)
+- Javascript is a single-threaded, synchronous language, but there are functions that
+run asynchronously (ex: setTimeOut function)
+- Asynchronous Javascript: execution stack, browser APIs, function queue, event loop
