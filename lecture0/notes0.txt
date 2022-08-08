@@ -1,0 +1,15 @@
+CS50 App Lecture 0: Overview, Javascript
+
++++ Javascript Basics +++
+- Javascript is interpreted, each browser has its own Javascript engine
+- Basics (see 0-syntax.js)
+- Primitive types: undefined, null, boolean, number, string, (symbol) // Objects
+- Primitives are immutable, objects are mutable and stored by reference
+- Explicit(ex: String()) vs Implicit coercion(ex: x+"")
+- '==' coerces the type, '===' does not coerce the type / strict equality
+- Passing by reference vs value, use Object.assign({}, obj) for deepcopy
+- Prototypal inheritance
+- Scoping (lexically, var; block scoped, let & const)
+- Javascript engine: 1st phase (reads and throws syntax error, any function definitions
+stored in memory; lexically scoped variable will be hoisted)
+- Functions not stored in variable are hoisted in javascript

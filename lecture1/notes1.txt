@@ -6,3 +6,5 @@ CS50 App Lecture 1: Javascript, ES6
 - Javascript is a single-threaded, synchronous language, but there are functions that
 run asynchronously (ex: setTimeOut function)
 - Asynchronous Javascript: execution stack, browser APIs, function queue, event loop
+- Callback, Promises, Async/Await
+- Document Object Model (DOM)
