@@ -1,3 +1,3 @@
 # CS50-App
 
-TODO - create readme
+My personal repository that I used to learn app development using React Native. Still a lot of topics to cover... TODO
